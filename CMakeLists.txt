@@ -42,6 +42,10 @@ find_package(TRIQS
              ${REQUIRED_TRIQS_VERSION_MIN}...${REQUIRED_TRIQS_VERSION_MAX}
              REQUIRED)
 
+set(CMAKE_BUILD_WITH_INSTALL_RPATH TRUE)
+set(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
+list(APPEND CMAKE_INSTALL_RPATH "anaconda3/envs/triqs/lib/libtriqs.3.2.dylib")
+
 # Get the git hash & print status
 triqs_get_git_hash_of_source_dir(PROJECT_GIT_HASH)
 message(STATUS "${PROJECT_NAME} version : ${PROJECT_VERSION}")

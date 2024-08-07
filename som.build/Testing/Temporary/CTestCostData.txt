@@ -1,0 +1,45 @@
+test.configuration 0 0
+test.objective_function 0 0
+test.kernels_fermiongf 0 0
+test.kernels_fermiongfsymm 0 0
+test.kernels_bosoncorr 0 0
+test.kernels_bosonautocorr 0 0
+test.kernels_zerotemp 0 0
+test.solution_worker 0 0
+test.global_index_map_np1 0 0
+test.global_index_map_np2 0 0
+test.global_index_map_np4 0 0
+test.spectral_stats_np1 0 0
+test.spectral_stats_np2 0 0
+test.spectral_stats_np4 0 0
+test.dilog 0 0
+test.ecqp_worker 0 0
+test.expabs_distribution 0 0
+test.finite_diff 0 0
+test.lls_worker 0 0
+test.polynomial 0 0
+test.simpson 0 0
+test.spline 0 0
+---
+test.configuration
+test.objective_function
+test.kernels_fermiongf
+test.kernels_fermiongfsymm
+test.kernels_bosoncorr
+test.kernels_bosonautocorr
+test.kernels_zerotemp
+test.solution_worker
+test.global_index_map_np1
+test.global_index_map_np2
+test.global_index_map_np4
+test.spectral_stats_np1
+test.spectral_stats_np2
+test.spectral_stats_np4
+test.dilog
+test.ecqp_worker
+test.expabs_distribution
+test.finite_diff
+test.lls_worker
+test.polynomial
+test.simpson
+test.spline

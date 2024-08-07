@@ -1,0 +1,5 @@
+triqs path:
+
+/Users/ssr38/anaconda3/envs/triqs/share/triqs/triqsvars.sh
+
+source /Users/ssr38/anaconda3/envs/triqs/share/triqs/triqsvars.sh

@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /Users/ssr38/Documents/GitHub/som/test/c++
+# Build directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test([=[test.configuration]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.configuration")
+set_tests_properties([=[test.configuration]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.objective_function]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.objective_function")
+set_tests_properties([=[test.objective_function]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.kernels_fermiongf]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_fermiongf")
+set_tests_properties([=[test.kernels_fermiongf]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.kernels_fermiongfsymm]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_fermiongfsymm")
+set_tests_properties([=[test.kernels_fermiongfsymm]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.kernels_bosoncorr]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_bosoncorr")
+set_tests_properties([=[test.kernels_bosoncorr]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.kernels_bosonautocorr]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_bosonautocorr")
+set_tests_properties([=[test.kernels_bosonautocorr]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.kernels_zerotemp]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_zerotemp")
+set_tests_properties([=[test.kernels_zerotemp]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.solution_worker]=] "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.solution_worker")
+set_tests_properties([=[test.solution_worker]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;50;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;86;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.global_index_map_np1]=] "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "1" "test.global_index_map")
+set_tests_properties([=[test.global_index_map_np1]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;44;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;92;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.global_index_map_np2]=] "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "2" "test.global_index_map")
+set_tests_properties([=[test.global_index_map_np2]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;44;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;92;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.global_index_map_np4]=] "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "4" "test.global_index_map")
+set_tests_properties([=[test.global_index_map_np4]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;44;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;92;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.spectral_stats_np1]=] "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "1" "test.spectral_stats")
+set_tests_properties([=[test.spectral_stats_np1]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;44;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;92;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.spectral_stats_np2]=] "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "2" "test.spectral_stats")
+set_tests_properties([=[test.spectral_stats_np2]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;44;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;92;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+add_test([=[test.spectral_stats_np4]=] "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "4" "test.spectral_stats")
+set_tests_properties([=[test.spectral_stats_np4]=] PROPERTIES  WORKING_DIRECTORY "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/" _BACKTRACE_TRIPLES "/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;44;add_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;92;add_som_cpp_test;/Users/ssr38/Documents/GitHub/som/test/c++/CMakeLists.txt;0;")
+subdirs("numerics")

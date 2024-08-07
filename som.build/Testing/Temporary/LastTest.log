@@ -1,0 +1,395 @@
+Start testing: Jul 30 20:10 EDT
+----------------------------------------------------------
+1/22 Testing: test.configuration
+1/22 Test: test.configuration
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.configuration"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.configuration" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65604]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <5D87D0BF-59D2-3817-9DE4-88A973F5CC8E> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.configuration
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Failed.
+"test.configuration" end time: Jul 30 20:10 EDT
+"test.configuration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/22 Testing: test.objective_function
+2/22 Test: test.objective_function
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.objective_function"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.objective_function" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65605]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <02C3A964-C01D-316B-B0E3-851B1C033B52> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.objective_function
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Failed.
+"test.objective_function" end time: Jul 30 20:10 EDT
+"test.objective_function" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/22 Testing: test.kernels_fermiongf
+3/22 Test: test.kernels_fermiongf
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_fermiongf"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.kernels_fermiongf" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65606]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <9B560C59-D290-3BB0-9830-6B460E1E5359> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_fermiongf
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Failed.
+"test.kernels_fermiongf" end time: Jul 30 20:10 EDT
+"test.kernels_fermiongf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/22 Testing: test.kernels_fermiongfsymm
+4/22 Test: test.kernels_fermiongfsymm
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_fermiongfsymm"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.kernels_fermiongfsymm" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65608]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <7DEAF5CC-4B88-34B7-879E-80E34E8E0735> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_fermiongfsymm
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   1.23 sec
+----------------------------------------------------------
+Test Failed.
+"test.kernels_fermiongfsymm" end time: Jul 30 20:10 EDT
+"test.kernels_fermiongfsymm" time elapsed: 00:00:01
+----------------------------------------------------------
+
+5/22 Testing: test.kernels_bosoncorr
+5/22 Test: test.kernels_bosoncorr
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_bosoncorr"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.kernels_bosoncorr" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65610]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <872C55C7-152D-3CF9-96EB-076240AA61FF> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_bosoncorr
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Failed.
+"test.kernels_bosoncorr" end time: Jul 30 20:10 EDT
+"test.kernels_bosoncorr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/22 Testing: test.kernels_bosonautocorr
+6/22 Test: test.kernels_bosonautocorr
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_bosonautocorr"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.kernels_bosonautocorr" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65611]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <76779500-A320-3122-A204-B5BBCC6C1A35> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_bosonautocorr
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Failed.
+"test.kernels_bosonautocorr" end time: Jul 30 20:10 EDT
+"test.kernels_bosonautocorr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/22 Testing: test.kernels_zerotemp
+7/22 Test: test.kernels_zerotemp
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_zerotemp"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.kernels_zerotemp" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65612]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <47EC07CA-BDEC-354C-BEAE-76C056682B59> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.kernels_zerotemp
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Failed.
+"test.kernels_zerotemp" end time: Jul 30 20:10 EDT
+"test.kernels_zerotemp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/22 Testing: test.solution_worker
+8/22 Test: test.solution_worker
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.solution_worker"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.solution_worker" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65613]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <A877AEDC-BCB3-3A96-AD75-641DE78E5CA4> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/test.solution_worker
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Failed.
+"test.solution_worker" end time: Jul 30 20:10 EDT
+"test.solution_worker" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/22 Testing: test.global_index_map_np1
+9/22 Test: test.global_index_map_np1
+Command: "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "1" "test.global_index_map"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.global_index_map_np1" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.global_index_map (No such file or directory)
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"test.global_index_map_np1" end time: Jul 30 20:10 EDT
+"test.global_index_map_np1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/22 Testing: test.global_index_map_np2
+10/22 Test: test.global_index_map_np2
+Command: "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "2" "test.global_index_map"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.global_index_map_np2" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.global_index_map (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.global_index_map (No such file or directory)
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Failed.
+"test.global_index_map_np2" end time: Jul 30 20:10 EDT
+"test.global_index_map_np2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/22 Testing: test.global_index_map_np4
+11/22 Test: test.global_index_map_np4
+Command: "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "4" "test.global_index_map"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.global_index_map_np4" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.global_index_map (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.global_index_map (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.global_index_map (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.global_index_map (No such file or directory)
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"test.global_index_map_np4" end time: Jul 30 20:10 EDT
+"test.global_index_map_np4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/22 Testing: test.spectral_stats_np1
+12/22 Test: test.spectral_stats_np1
+Command: "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "1" "test.spectral_stats"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.spectral_stats_np1" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.spectral_stats (No such file or directory)
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Failed.
+"test.spectral_stats_np1" end time: Jul 30 20:10 EDT
+"test.spectral_stats_np1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/22 Testing: test.spectral_stats_np2
+13/22 Test: test.spectral_stats_np2
+Command: "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "2" "test.spectral_stats"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.spectral_stats_np2" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.spectral_stats (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.spectral_stats (No such file or directory)
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"test.spectral_stats_np2" end time: Jul 30 20:10 EDT
+"test.spectral_stats_np2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/22 Testing: test.spectral_stats_np4
+14/22 Test: test.spectral_stats_np4
+Command: "/Users/ssr38/anaconda3/envs/triqs/bin/mpiexec" "-n" "4" "test.spectral_stats"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/
+"test.spectral_stats_np4" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.spectral_stats (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.spectral_stats (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.spectral_stats (No such file or directory)
+[proxy:0@Physics-20-13.local] HYDU_create_process (lib/utils/launch.c:73): execvp error on file test.spectral_stats (No such file or directory)
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"test.spectral_stats_np4" end time: Jul 30 20:10 EDT
+"test.spectral_stats_np4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/22 Testing: test.dilog
+15/22 Test: test.dilog
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.dilog"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.dilog" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65640]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <405BFA5C-6EA5-31A5-82D9-B411D81C8EED> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.dilog
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Failed.
+"test.dilog" end time: Jul 30 20:10 EDT
+"test.dilog" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/22 Testing: test.ecqp_worker
+16/22 Test: test.ecqp_worker
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.ecqp_worker"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.ecqp_worker" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65641]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <BE3D1509-C827-33F1-8216-911CFBE0E034> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.ecqp_worker
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Failed.
+"test.ecqp_worker" end time: Jul 30 20:10 EDT
+"test.ecqp_worker" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/22 Testing: test.expabs_distribution
+17/22 Test: test.expabs_distribution
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.expabs_distribution"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.expabs_distribution" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65642]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <516F65FF-7E06-3808-8A16-A012937C43A1> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.expabs_distribution
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Failed.
+"test.expabs_distribution" end time: Jul 30 20:10 EDT
+"test.expabs_distribution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/22 Testing: test.finite_diff
+18/22 Test: test.finite_diff
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.finite_diff"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.finite_diff" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65643]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <7617C153-59B1-35B7-848A-BB43F4C2333A> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.finite_diff
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Failed.
+"test.finite_diff" end time: Jul 30 20:10 EDT
+"test.finite_diff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/22 Testing: test.lls_worker
+19/22 Test: test.lls_worker
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.lls_worker"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.lls_worker" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65644]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <532346F6-B34A-306E-B9DE-B3B53589D282> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.lls_worker
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Failed.
+"test.lls_worker" end time: Jul 30 20:10 EDT
+"test.lls_worker" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/22 Testing: test.polynomial
+20/22 Test: test.polynomial
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.polynomial"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.polynomial" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65645]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <779B8288-F545-3818-A062-833412429051> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.polynomial
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Failed.
+"test.polynomial" end time: Jul 30 20:10 EDT
+"test.polynomial" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/22 Testing: test.simpson
+21/22 Test: test.simpson
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.simpson"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.simpson" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65646]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <7559A847-E5C3-37AD-AEE5-6C81F9340235> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.simpson
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Failed.
+"test.simpson" end time: Jul 30 20:10 EDT
+"test.simpson" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/22 Testing: test.spline
+22/22 Test: test.spline
+Command: "/Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.spline"
+Directory: /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/
+"test.spline" start time: Jul 30 20:10 EDT
+Output:
+----------------------------------------------------------
+dyld[65647]: Library not loaded: @rpath/libtriqs.3.2.dylib
+  Referenced from: <004399D1-1B2E-3A00-9849-DB39495DEFBD> /Users/ssr38/Documents/GitHub/som/som.build/test/c++/numerics/test.spline
+  Reason: tried: 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file), 'anaconda3/envs/triqs/lib/libtriqs.3.2.dylib/libtriqs.3.2.dylib' (no such file)
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Failed.
+"test.spline" end time: Jul 30 20:10 EDT
+"test.spline" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 30 20:10 EDT
